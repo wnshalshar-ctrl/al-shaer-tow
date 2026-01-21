@@ -1,0 +1,38 @@
+# robots.txt for ونش الشاعر
+# This file tells search engines which pages to crawl
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://yourwebsite.com/sitemap.xml
+
+# Crawl-delay (optional, adjust based on server capacity)
+Crawl-delay: 1
+
+# Block access to admin or private directories (if any in the future)
+# Disallow: /admin/
+# Disallow: /private/
+
+# Allow all images to be indexed
+User-agent: Googlebot-Image
+Allow: /pics/
+
+# Allow all major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: YandexBot
+Allow: /
