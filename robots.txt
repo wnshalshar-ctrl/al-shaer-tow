@@ -5,16 +5,12 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://wenshalshaer.com/sitemap.xml
 
-# Crawl-delay (optional, adjust based on server capacity)
+# Crawl-delay (Recommended for GitHub Pages)
 Crawl-delay: 1
 
-# Block access to admin or private directories (if any in the future)
-# Disallow: /admin/
-# Disallow: /private/
-
-# Allow all images to be indexed
+# Allow all images to be indexed for Google Image Search
 User-agent: Googlebot-Image
 Allow: /pics/
 
@@ -25,13 +21,7 @@ Allow: /
 User-agent: Bingbot
 Allow: /
 
-User-agent: Slurp
-Allow: /
-
 User-agent: DuckDuckBot
-Allow: /
-
-User-agent: Baiduspider
 Allow: /
 
 User-agent: YandexBot
