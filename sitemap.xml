@@ -2,96 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
-    <!-- Main page (Arabic version) -->
     <url>
-        <loc>https://yourwebsite.com/</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
         <xhtml:link 
             rel="alternate" 
             hreflang="ar" 
-            href="https://yourwebsite.com/" />
+            href="https://wenshalshaer.com/" />
         <xhtml:link 
             rel="alternate" 
             hreflang="en" 
-            href="https://yourwebsite.com/" />
+            href="https://wenshalshaer.com/" />
     </url>
     
-    <!-- Images from gallery -->
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(1).jpeg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(1).jpeg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(1).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(1).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(5).jpeg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(5).jpeg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(6).jpeg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(6).jpeg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(7).jpeg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(7).jpeg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(7).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(7).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(8).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(8).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(9).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(9).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(10).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(10).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(11).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(11).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
     
     <url>
-        <loc>https://yourwebsite.com/pics/wensh%20(12).jpg</loc>
-        <lastmod>2026-01-21</lastmod>
+        <loc>https://wenshalshaer.com/pics/wensh%20(12).jpg</loc>
+        <lastmod>2026-01-22</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.6</priority>
     </url>
